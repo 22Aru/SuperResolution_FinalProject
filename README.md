@@ -1,6 +1,6 @@
 # SuperResolution_FinalProject
 We are:
-Guillem Escriba U188331 242123,
+Guillem Escriba U188331 242123, \n
 David Pérez U188332 241375,
 Arnau Solans U161668 216530.
 
