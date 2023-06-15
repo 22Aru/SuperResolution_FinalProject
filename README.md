@@ -15,6 +15,7 @@ Our repostitory contains:
   ·Our architecture proposed for the task.  
   ·Our dataset constructed to conduct training and testing.  
   ·Our results produced by experimentation (different models and plots) [Only the best and most differentiated results].  
+  ·Our functions to resize and crop the data.  
   ·This README file.  
 Our network is designed to produce an upscaling of x4 to the low resolution image effectively producing a Super Resolution 4 times the low resolution dimensions.  
 
