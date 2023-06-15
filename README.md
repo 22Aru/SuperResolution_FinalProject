@@ -21,4 +21,7 @@ Our network is designed to produce an upscaling of x4 to the low resolution imag
 
 We add a link to our presentation https://docs.google.com/presentation/d/129cjhcs4T2QQfVaLdnHAOC7He-GV7xe0lheQHHcd4Tk/edit?usp=sharing .  
 
-Due to the dimensions of our training dataset we can't upload it here, providing public link to Drive https://drive.google.com/drive/folders/1WEDSXye8nXD5jXygXwaIqBG04y_o2rOl?usp=sharing .  
+Due to the dimensions of our training dataset we can't upload it here, providing public link to Drive: 
+ https://drive.google.com/drive/folders/1WEDSXye8nXD5jXygXwaIqBG04y_o2rOl?usp=sharing .  
+Due to the dimensions of our architecture notebook we can't upload it here, providing public link to Collaboratory:  
+https://drive.google.com/file/d/1wApRPsBYg-Tw8lb8_4pufiv4MUpnBF9D/view?usp=sharing .
